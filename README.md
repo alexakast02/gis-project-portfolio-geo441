@@ -1,6 +1,16 @@
-##3D Mapping
+GEO 441
 
-[Creating 3D features with multipatch texture]
+Alexa Kast
 
-(https://github.com/alexakast02/gis-project-portfolio-geo441/blob/main/Week_11_Collabipynb.ipynb)
-https://miamioh.maps.arcgis.com/home/item.html?id=7a36d15f30604d99865e9139d31763d3
+Overview:
+This repository contains google colab notebooks prepared for geo 441 at Miami University 
+Contained are the projects completed for the geo 441 class
+
+Basic Mapping:
+do i insert the folder or links to the individual ones?
+
+Map Coordinate Basics:
+
+Raster Data Work:
+
+Vector Data Work:
